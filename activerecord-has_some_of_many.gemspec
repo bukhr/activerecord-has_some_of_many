@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   ]
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "activerecord", ">= 7.0.0.alpha"
-  spec.add_dependency "railties", ">= 7.0.0.alpha"
+  spec.add_dependency "activerecord"
+  spec.add_dependency "railties"
 end
 
